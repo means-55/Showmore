@@ -211,4 +211,4 @@ ShowMore is a completely free software with all features and updates included. E
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 16:11:40 UTC
+**Last updated:** 2026-10-17 19:05:37 UTC
